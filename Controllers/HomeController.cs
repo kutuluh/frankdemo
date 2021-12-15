@@ -17,14 +17,14 @@ namespace frankdemo.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Hello Montreal!!";
+            ViewData["Message"] = "Welcome to fcm-devops.xyz";
 
             return View();
         }
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "You can reach us in via the following channels.";
 
             return View();
         }
