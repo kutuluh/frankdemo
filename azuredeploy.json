@@ -10,7 +10,7 @@
             "name": "fcmdevops",
             "location": "[resourceGroup().location]",
             "sku": {
-                "name": "F1",
+                "name": "B1",
                 "capacity": 1
             },
             "tags": {
